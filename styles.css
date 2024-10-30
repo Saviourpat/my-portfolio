@@ -12,7 +12,7 @@ body {
 
 header {
     color: rgb(11, 9, 110);
-    width: 97%; /* Full width */
+    width: 100%; /* Full width */
     padding: 10px; /* Adjusted padding */
     display: flex;
     justify-content: space-between;
@@ -129,7 +129,7 @@ button:hover {
 
 footer {
     color: rgb(235, 12, 12);
-    width: 97%; /* Full width */
+    width: 100%; /* Full width */
     padding: 20px;
     align-items: center;
     text-align: center;
